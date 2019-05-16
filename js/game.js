@@ -127,7 +127,7 @@ new Question('Who starred as Bruce Wayne and Batman in Tim Burton\'s 1989 movie 
 new Question('Who directed \'E.T. the Extra-Terrestrial\' (1982)?', 'Steven Spielberg', [ 'Steven Spielberg', 'James Cameron', 'Tim Burton', 'Stanley Kubrick'], 1)
 new Question('Which animated movie was first to feature a celebrity as a voice actor?', 'Aladdin', [ 'Aladdin', 'The Hunchback of Notre Dame', 'Toy Story', 'James and the Giant Peach'], 1)
 new Question('What is the name of James Dean\'s character in the 1955 movie \'Rebel Without a Caus\'?', 'Jim Stark', [ 'Jim Stark', 'Jim Kane', 'Frank Stark', 'Ned Stark'], 2)
-new Question('Who directed the 2015 movie \'The Revenant\'?\', \'Alejandro G. Iñárritu', [ 'Alejandro G. Iñárritu', 'Christopher Nolan', 'David Fincher', 'Wes Anderson'], 1)
+new Question('Who directed the 2015 movie \'The Revenant\'?', \'Alejandro G. Iñárritu', [ 'Alejandro G. Iñárritu', 'Christopher Nolan', 'David Fincher', 'Wes Anderson'], 1)
 new Question('The Queen song `A Kind Of Magic` is featured in which 1986 film?', 'Highlander', [ 'Highlander', 'Howard the Duck', 'Flash Gordon', 'Labyrinth'], 1)
 new Question('Who played Batman in the 1997 film \'Batman and Robin\'?', 'George Clooney', [ 'George Clooney', 'Val Kilmer', 'Michael Keaton', 'Christian Bale'], 2)
 new Question('In which African country was the 2006 film \'Blood Diamond\' mostly set in?', 'Sierra Leone', [ 'Sierra Leone', 'Liberia', 'Burkina Faso', 'Central African Republic'], 2)
