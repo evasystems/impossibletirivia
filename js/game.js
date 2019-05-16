@@ -58,6 +58,30 @@ function Question(question, answer, setOfAnswers, difficulty) {
 }
 
 // New Instances of the constructor
+new Question('What breed of dog was Marley in the film \'Marley & Me\' (2008)?', 'Labrador Retriever', [ 'Labrador Retriever', 'Dalmatian', 'Golden Retriever', 'Shiba Inu'], 1);
+new Question('Which of the following movies was not based on a novel by Stephen King? ', 'The Thing', [ 'The Thing', 'Misery', 'The Green Mile', 'Carrie'], 1);
+new Question('Who starred as Bruce Wayne and Batman in Tim Burton\'s 1989 movie \'Batman\'?', 'Michael Keaton', [ 'Michael Keaton', 'George Clooney', 'Adam West', 'Val Kilmer'], 1);
+new Question('Who directed \'E.T. the Extra-Terrestrial\' (1982)?', 'Steven Spielberg', [ 'Steven Spielberg', 'James Cameron', 'Tim Burton', 'Stanley Kubrick'], 1);
+new Question('Which animated movie was first to feature a celebrity as a voice actor?', 'Aladdin', [ 'Aladdin', 'The Hunchback of Notre Dame', 'Toy Story', 'James and the Giant Peach'], 1);
+new Question('What is the name of James Dean\'s character in the 1955 movie \'Rebel Without a Caus\'?', 'Jim Stark', [ 'Jim Stark', 'Jim Kane', 'Frank Stark', 'Ned Stark'], 2);
+new Question('Who directed the 2015 movie \'The Revenant\'?\', \'Alejandro G. Iñárritu', [ 'Alejandro G. Iñárritu', 'Christopher Nolan', 'David Fincher', 'Wes Anderson'], 1);
+new Question('The Queen song `A Kind Of Magic` is featured in which 1986 film?', 'Highlander', [ 'Highlander', 'Howard the Duck', 'Flash Gordon', 'Labyrinth'], 1);
+new Question('Who played Batman in the 1997 film \'Batman and Robin\'?', 'George Clooney', [ 'George Clooney', 'Val Kilmer', 'Michael Keaton', 'Christian Bale'], 2);
+new Question('In which African country was the 2006 film \'Blood Diamond\' mostly set in?', 'Sierra Leone', [ 'Sierra Leone', 'Liberia', 'Burkina Faso', 'Central African Republic'], 2);
+new Question('What is the name of the dog that played Toto in the 1939 film \'The Wizard of Oz\'?', 'Terry', [ 'Terry', 'Teddy', 'Tommy', 'Toto'], 2);
+new Question('Which of these actors/actresses is NOT a part of the cast for the 2016 movie \'Suicide Squad\'?', 'Scarlett Johansson', [ 'Scarlett Johansson', 'Jared Leto', 'Will Smith', 'Margot Robbie'], 1);
+new Question('In the 1979 British film \'Quadrophenia\' what is the name of the main protagonist?', 'Jimmy Cooper', [ 'Jimmy Cooper', 'Pete Townshend', 'Franc Roddam', 'Archie Bunker'], 2);
+new Question('Who played Sgt. Gordon Elias in \'Platoon\' (1986)?', 'Willem Dafoe', [ 'Willem Dafoe', 'Johnny Depp', 'Matt Damon', 'Charlie Sheen'], 2);
+new Question('In what year was the movie \'Police Academy\' released?', '1984', [ '1984', '1983', '1986', '1985'], 2);
+new Question('Who is the director of the 1991 film \'Silence of the Lambs\'?', 'Jonathan Demme', [ 'Jonathan Demme', 'Frank Darabont', 'Stanley Kubrick', 'Michael Bay'], 2);
+new Question('In what year did Clint Eastwood star as Inspector Harry Callahan in the film \'Dirty Harry\'?', '1971', [ '1971', '1969', '1983', '1975'], 3);
+new Question('Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?', 'The Revenant', [ 'The Revenant', 'Inception', 'Shutter Island', 'The Wolf Of Wall Street'], 2);
+new Question('Which actress portrayed Dr. Grace Augustine in the James Cameron movie \'Avatar\'?', 'Sigourney Weaver', [ 'Sigourney Weaver', 'Melissa Beckett', 'Alyssa Monroe ', 'Jessica Chastain'], 3);
+new Question('Who plays \'Bruce Wayne\' in the 2008 movie \'The Dark Knight\'?', 'Christian Bale', [ 'Christian Bale', 'Ron Dean', 'Michael Caine', 'Heath Ledger'], 2);
+new Question('Which former Star Trek actor directed Three Men and a Baby (1987)?', 'Leonard Nimoy', [ 'Leonard Nimoy', 'George Takei', 'William Shatner', 'James Doohan'], 2);
+new Question('What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?', 'Gopher', [ 'Gopher', 'Rabbit', 'Heffalumps', 'Tigger'], 2);
+new Question('What is the name of the queen\'s pet in A Bug\'s Life?', 'Aphie', [ 'Aphie', 'Dot', 'Hopper', 'Flik'], 2);
+// New Instances of the constructor
 new Question('What movie won best picture at the 2017 Academy Awards?', 'Moonlight', ['Moonlight', 'La La Land', 'Manchester by the Sea', 'Fences'], 3);
 new Question('In the movie The Terminator, what is the name of the company that created Skynet?', 'Cyberdyne Systems', ['Cyberdyne Systems', 'Code Fellows', 'Multi-National United', 'Tetravaal'], 2);
 new Question('Emma Watson is known for playing which character in Harry Potter?', 'Hermione Granger', ['Hermione Granger', 'Luna Lovegood', 'Bellatrix Lestrange', 'Nymphadora Lupin'], 1);
