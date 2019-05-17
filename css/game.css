@@ -42,8 +42,8 @@ header img.flipped {
 nav {
   float: right;
   width: 110px;
-  padding: 20px;
-  padding-top: 30px;
+  padding: 0px;
+  padding-top: 0px;
 
 }
 
